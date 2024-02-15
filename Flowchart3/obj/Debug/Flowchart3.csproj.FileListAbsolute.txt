@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\bin\Debug\Flowchart3.exe.config
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\bin\Debug\Flowchart3.exe
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\bin\Debug\Flowchart3.pdb
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\obj\Debug\Flowchart3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\obj\Debug\Flowchart3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\obj\Debug\Flowchart3.exe
+C:\Users\HP\source\repos\Flowchart3\Flowchart3\obj\Debug\Flowchart3.pdb
