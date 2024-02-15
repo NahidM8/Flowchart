@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Flowchart\Flowchart\obj\Debug\Flowchart.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Flowchart\Flowchart\obj\Debug\Flowchart.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Flowchart\Flowchart\bin\Debug\Flowchart.exe.config
+C:\Users\HP\source\repos\Flowchart\Flowchart\bin\Debug\Flowchart.exe
+C:\Users\HP\source\repos\Flowchart\Flowchart\bin\Debug\Flowchart.pdb
+C:\Users\HP\source\repos\Flowchart\Flowchart\obj\Debug\Flowchart.exe
+C:\Users\HP\source\repos\Flowchart\Flowchart\obj\Debug\Flowchart.pdb
